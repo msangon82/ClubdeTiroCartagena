@@ -105,9 +105,11 @@ th {
     aside {
         width: 100%;
     }
+}
 header {
   position: -webkit-sticky; /* Soporte para Safari */
   position: sticky;
   top: 0;
   z-index: 1000;
 }
+
